@@ -33,4 +33,4 @@ Cheers!
 
 
 # Developer:
-I need to make a better readme file!    
+Make it more readable
