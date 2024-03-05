@@ -29,14 +29,3 @@ Credits
 This application was developed by Your Mohammad Ghadban.
 
 Cheers!
-
-
-
-# Developer:
-
-Make it more readable
-
-I need to make a better readme file! test
-
-2. undo have fun
-
